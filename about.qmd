@@ -4,5 +4,5 @@ toc: false
 ---
 
 ```{=html}
-<iframe width="780" height="500" src="cv.pdf" title="CV"></iframe>
+<iframe width="780" height="500" src="cv.pdf" ></iframe>
 ```
