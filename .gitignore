@@ -1,0 +1,6 @@
+/.quarto/
+**/*.quarto_ipnyb
+
+*.html
+
+*.pdf
