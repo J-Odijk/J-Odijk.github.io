@@ -1,5 +1,6 @@
 project:
   type: website
+  resources: "*.pdf"
 
 website:
   title: "Job Odijk"
@@ -7,10 +8,11 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - text: CV
+        href: cv.pdf
 
 format:
   html:
-    theme: cosmo
+    theme: minty
     css: styles.css
     toc: true

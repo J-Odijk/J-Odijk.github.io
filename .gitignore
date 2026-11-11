@@ -3,5 +3,6 @@
 
 *.html
 
-*.pdf
+
+
 **/*.quarto_ipynb
