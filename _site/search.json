@@ -2,8 +2,57 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "About me",
+    "title": "Job Odijk",
     "section": "",
-    "text": "About me\nHi, my name is Job Odijk. Currently I’m a master’s student Methodology, Statistics and Data Science at Utrecht University. I chose this master’s because of my love for data analysis and all the challanges that come with is. I see it as little puzzles to solve. Before the master’s I got a BSc degree in Sociology where i founded my remained interest in societal problems.\n\n\nCurrent projects"
+    "text": "Master’s student Methodology, Statistics & Data Science\nBSc Sociology"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Job Odijk",
+    "section": "",
+    "text": "Hi, my name is Job Odijk. Currently I’m a master’s student Methodology, Statistics and Data Science at Utrecht University. I am doing this master’s because of my love for data analysis and all the challanges that come with it. Before the master’s I got a BSc degree in Sociology where i founded my remained interest in societal problems. My interests specifically lie in the area of prediction. Currently, I am doing an intership at the deparment of Biostatistics & Data Science at UMC Utrecht work on prediction in the clinical context."
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "Job Odijk",
+    "section": "",
+    "text": "Hi, my name is Job Odijk. Currently I’m a master’s student Methodology, Statistics and Data Science at Utrecht University. I am doing this master’s because of my love for data analysis and all the challanges that come with it. Before the master’s I got a BSc degree in Sociology where i founded my remained interest in societal problems. My interests specifically lie in the area of prediction. Currently, I am doing an intership at the deparment of Biostatistics & Data Science at UMC Utrecht work on prediction in the clinical context."
+  },
+  {
+    "objectID": "about.html#activities",
+    "href": "about.html#activities",
+    "title": "Job Odijk",
+    "section": "Activities",
+    "text": "Activities"
+  },
+  {
+    "objectID": "index.html#job-odijk",
+    "href": "index.html#job-odijk",
+    "title": "Job Odijk",
+    "section": "",
+    "text": "Master’s student Methodology, Statistics & Data Science\nBSc Sociology"
+  },
+  {
+    "objectID": "about.html#interest",
+    "href": "about.html#interest",
+    "title": "Job Odijk",
+    "section": "Interest",
+    "text": "Interest\n\nForecasting using intensive longitudinal data\nwddawd"
+  },
+  {
+    "objectID": "about.html#project",
+    "href": "about.html#project",
+    "title": "Job Odijk",
+    "section": "Project",
+    "text": "Project\n\nForecasting using intensive longitudinal data\nAs research intern at UMC Utrecht deparment of Biostatistics & Data Science I am working on a project that aims to forecast vital signs using intensive longitudinal data that contain lots of measurement error and missing values."
+  },
+  {
+    "objectID": "about.html#projects",
+    "href": "about.html#projects",
+    "title": "Job Odijk",
+    "section": "Projects",
+    "text": "Projects\n\nForecasting using intensive longitudinal data\nAs research intern at UMC Utrecht I am working on a project that aims to forecast vital signs using intensive longitudinal data that contain lots of measurement errors and missing values."
   }
 ]

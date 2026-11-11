@@ -1,5 +1,16 @@
+## About me
 
-```{=html}
-<iframe width="100%" height="750" src="cv.pdf" ></iframe>
-```
+Hi, my name is Job Odijk. Currently I'm a master's student **Methodology, Statistics and Data Science** at **Utrecht University**. I am doing this master's because of my love for data analysis and all the challanges that come with it. Before the master's I got a BSc degree in Sociology where i founded my remained interest in societal problems. My interests specifically lie in the area of prediction. Currently, I am doing an intership at the deparment of *Biostatistics & Data Science* at **UMC Utrecht** work on prediction in the clinical context. 
+
+## Projects
+
+*   **Forecasting using intensive longitudinal data**
+
+    As research intern at UMC Utrecht I am working on a project that aims to forecast vital signs using intensive longitudinal data that contain lots of measurement errors and missing values. 
+    
+    
+    
+
+
+
 

@@ -8,11 +8,22 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - text: CV
+      - text: Profile
         href: about.qmd
+      - text: CV
+        href: cv.qmd
+    right:
+      - href: https://linkedin.com/in/jobodijk
+        icon: linkedin
+        aria-label: linkedIn
+      - href: https://github.com/j-odijk
+        icon: github
+        aria-label: github
 
 format:
   html:
-    theme: minty
+    theme: default
     css: styles.css
-    toc: true
+    toc: false
+
+
